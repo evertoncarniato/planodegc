@@ -16,7 +16,7 @@ de vida do software.
 | Redmine           |4.1.1   | Controle do que deve ser feito (features, bugs, planejamentos, etc) e do tempo de execução das tarefas |
 | Git               |2.29.2  | Versionamento |
 | GitHub            |-       | Repositório remoto do código-fonte do projeto |
-| Google Docs       |-       | repositório dos artefatos de especificação |
+| Google Docs       |-       | Repositório dos artefatos de especificação |
 | Visual Studio Code|-       | Editor de código-fonte |
 | AWS               |-       | Cloud do produto de software |
 
